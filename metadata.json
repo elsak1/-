@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ቀን",
+  "description": "An AI-powered personal calendar that converts natural language text into structured events with advanced alarm and notification features.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
